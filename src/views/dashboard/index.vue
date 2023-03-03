@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard-container">
-    <div class="dashboard-text">name: {{ name }}</div>
+    <img src="https://t7.baidu.com/it/u=576001735,3321902997&fm=193&f=GIF">
   </div>
 </template>
 
